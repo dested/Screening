@@ -1,0 +1,8 @@
+C:\code\screening\Screening\Screening\bin\Release\Screening.exe.config
+C:\code\screening\Screening\Screening\bin\Release\Screening.exe
+C:\code\screening\Screening\Screening\bin\Release\Screening.pdb
+C:\code\screening\Screening\Screening\obj\Release\Screening.exe
+C:\code\screening\Screening\Screening\obj\Release\Screening.pdb
+C:\code\screening\Screening\Screening\bin\Release\Newtonsoft.Json.dll
+C:\code\screening\Screening\Screening\bin\Release\Newtonsoft.Json.xml
+C:\code\screening\Screening\Screening\obj\Release\Screening.csprojResolveAssemblyReference.cache
